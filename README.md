@@ -1,2 +1,2 @@
-# math_atlas
-Atlas of Mathematics
+# math_book
+The "Complete" Mathematics Book: Theory and Exercises
