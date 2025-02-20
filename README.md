@@ -29,6 +29,8 @@ book and go straight to the final test. It contains one problem for each exercis
 Practice is never a bad thing. If you solve everything correctly, congratulations; you can proceed to the next book!
 If not, you might need to revisit some theory.
 
+The numbers in front are only used to uniquely identify each book, they do not imply dependencies between them.
+
 ## How to contribute?
 This collection of books is meant to free mathematics from any costs associated with studying it.
 As such, this project is completely free and available online with the original LaTeX sources and PDF files.
